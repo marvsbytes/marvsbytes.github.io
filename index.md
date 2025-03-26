@@ -3,8 +3,6 @@ layout: default
 ---
 
 <div style="text-align: center; margin-top: 50px;">
-  <img src="{{ site.logo }}" alt="{{ site.title }} Logo" style="max-width: 200px; margin-bottom: 20px;">
-
   <h1>Coming Soon!</h1>
   <p>We're working hard to bring you something amazing.</p>
   <p>Stay tuned for updates.</p>
