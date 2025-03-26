@@ -1,3 +1,3 @@
 title: Marv's Bytes
 show_downloads: false
-theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
